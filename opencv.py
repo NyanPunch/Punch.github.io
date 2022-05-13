@@ -1,3 +1,4 @@
+# 얼굴 인식 기능
 import cv2
 
 # haarcascade 불러오기
